@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Blacklisted",""],["Cancelled",""],["Delegated",""],["Executed",""],["ExternalTabled",""],["NotPassed",""],["Passed",""],["PreimageInvalid",""],["PreimageMissing",""],["PreimageNoted",""],["PreimageReaped",""],["PreimageUsed",""],["Proposed",""],["Started",""],["Tabled",""],["Undelegated",""],["Vetoed",""]]});

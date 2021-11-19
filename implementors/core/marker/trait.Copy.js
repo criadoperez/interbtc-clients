@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["bitcoin"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"bitcoin/cli/struct.BitcoinNetwork.html\" title=\"struct bitcoin::cli::BitcoinNetwork\">BitcoinNetwork</a>","synthetic":false,"types":["bitcoin::cli::BitcoinNetwork"]}];
+implementors["runtime"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"type\" href=\"runtime/types/type.CurrencyId.html\" title=\"type runtime::types::CurrencyId\">CurrencyId</a>","synthetic":false,"types":["runtime::types::metadata_aliases::CurrencyId"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

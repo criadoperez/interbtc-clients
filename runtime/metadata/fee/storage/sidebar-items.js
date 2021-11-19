@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FeePoolAccountId",""],["IssueFee",""],["IssueGriefingCollateral",""],["PremiumRedeemFee",""],["PunishmentFee",""],["RedeemFee",""],["RefundFee",""],["ReplaceGriefingCollateral",""],["StorageApi",""],["StorageVersion",""],["TheftFee",""],["TheftFeeMax",""]]});

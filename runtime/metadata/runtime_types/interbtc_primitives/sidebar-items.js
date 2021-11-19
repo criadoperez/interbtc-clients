@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CurrencyId",""]],"mod":[["issue",""],["oracle",""],["redeem",""],["refund",""],["replace",""]],"struct":[["VaultCurrencyPair",""],["VaultId",""]]});
